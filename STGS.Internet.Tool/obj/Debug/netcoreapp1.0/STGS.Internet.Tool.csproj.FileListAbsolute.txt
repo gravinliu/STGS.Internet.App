@@ -1,0 +1,9 @@
+C:\Users\83627\Source\Repos\STGS.Internet.App\STGS.Internet.Tool\bin\Debug\netcoreapp1.0\STGS.Internet.Tool.deps.json
+C:\Users\83627\Source\Repos\STGS.Internet.App\STGS.Internet.Tool\bin\Debug\netcoreapp1.0\STGS.Internet.Tool.dll
+C:\Users\83627\Source\Repos\STGS.Internet.App\STGS.Internet.Tool\bin\Debug\netcoreapp1.0\STGS.Internet.Tool.pdb
+C:\Users\83627\Source\Repos\STGS.Internet.App\STGS.Internet.Tool\obj\Debug\netcoreapp1.0\STGS.Internet.Tool.csproj.CoreCompileInputs.cache
+C:\Users\83627\Source\Repos\STGS.Internet.App\STGS.Internet.Tool\obj\Debug\netcoreapp1.0\STGS.Internet.Tool.AssemblyInfoInputs.cache
+C:\Users\83627\Source\Repos\STGS.Internet.App\STGS.Internet.Tool\obj\Debug\netcoreapp1.0\STGS.Internet.Tool.AssemblyInfo.cs
+C:\Users\83627\Source\Repos\STGS.Internet.App\STGS.Internet.Tool\obj\Debug\netcoreapp1.0\STGS.Internet.Tool.dll
+C:\Users\83627\Source\Repos\STGS.Internet.App\STGS.Internet.Tool\obj\Debug\netcoreapp1.0\STGS.Internet.Tool.pdb
+C:\Users\83627\Source\Repos\STGS.Internet.App\STGS.Internet.Tool\obj\Debug\netcoreapp1.0\STGS.Internet.Tool.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="1.50.4" />
+    <PackageReference Include="Sino.Web" Version="1.1.22-beta9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\STGS.Internet.Tool\STGS.Internet.Tool.csproj" />
+  </ItemGroup>
+
+</Project>

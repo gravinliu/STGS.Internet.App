@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="5.1.2" />
+    <PackageReference Include="Sino.Extensions.Dapper" Version="1.1.13-beta-5" />
+    <PackageReference Include="System.Text.RegularExpressions" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\STGS.Internet.Core\STGS.Internet.Core.csproj" />
+  </ItemGroup>
+
+</Project>

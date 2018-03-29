@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Text.RegularExpressions" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\STGS.Internet.Core\STGS.Internet.Core.csproj" />
+    <ProjectReference Include="..\STGS.Internet.Repositories\STGS.Internet.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>
